@@ -13,6 +13,7 @@ namespace SqlDependencyWorkerService
             
         }
 
+
         //فعال کردن بروکر در دیتابیس برای کتابخانه 
         // ALTER DATABASE[نام دیتابیس] SET SINGLE_USER WITH ROLLBACK IMMEDIATE
         // ALTER DATABASE[نام دیتابیس] SET ENABLE_BROKER;
